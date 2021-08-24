@@ -150,6 +150,7 @@ gcloud container images delete gcr.io/gcp-nodejs-firestore-k8s/nodejs-firestore-
 
 
 ## TODO
+  * Make a production lean container
   * Automated Deployment from GitHub triger
   * Provision the compute resource with Teraform
 
