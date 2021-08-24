@@ -17,14 +17,14 @@ This repository contains a simple Rest API implemented with nodejs, and istructi
   11. Go back to **Google Console** https://console.cloud.google.com/home/dashboard?project=gcp-nodejs-firestore-k8s
   12. Open Terminal **>_**
 
-#### Get Source Code
+## Get Source Code
 ```
 git clone https://github.com/igorya7v/gcp-nodejs-firestore-k8s.git
 cd gcp-nodejs-firestore-k8s
 ```
 
 ## Update the config.js file with values from step 10 above
-**Open GCP Terminal and navigate to the config.js file.**
+**Open GCP Editor and navigate to the config.js file.**
 **Populate the module.exports values with the values from the step 10.**
 It's a temporal solution, later will be automated.
 
